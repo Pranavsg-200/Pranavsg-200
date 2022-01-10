@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Frontend and Backend Technologies.
 - 💪 Future Goals: Learn about more and more new technologies and implementing new ideas.
 
-###Languages and Tools That I Use/Familier With 🛠
+### Languages and Tools That I Use/ Familier With 🛠
 
