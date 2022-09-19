@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Technologies like Javascript, React, etc.**
 
-- 🌱 I’m currently learning **about Frontend and Backend Technologies**
+- 🌱 I’m currently learning **about Frontend, Backend Technologies and Cyber Security.**
 
 - 💪 Future Goals **Learn about more technologies and implementing new ideas.**
 
