@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Gaikwad</h1>
-<h3 align="center">Computer Engineering Student| Cyber Security Enthusiast | Front end Developer</h3>
+<h3 align="center">Computer Engineering Graduate| Cyber Security Enthusiast | MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsg-200&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsg-200" /> </p>
 
